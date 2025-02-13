@@ -1,3 +1,4 @@
+try:
     user_input = input("Enter a number: ")
     number = int(user_input)  # Convert input to integer
 
